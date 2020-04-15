@@ -1,2 +1,2 @@
-# c-19
-changing background colour with moving mouse
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
